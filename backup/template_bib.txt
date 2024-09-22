@@ -1,0 +1,66 @@
+@online{devmedia,
+  author       = {{DEVMEDIA}},
+  title        = {Transmissão de dados via rede elétrica},
+  year         = {2013},
+  url          = {https://www.devmedia.com.br/transmissao-de-dados-via-rede-eletrica-revista-infra-magazine-12/28608},
+  note         = {Revista Infra Magazine, n. 12. Acesso em: 14 set. 2024.}
+}
+
+@article{wang2019,
+  author       = {Wang, Bingting and Cao, Ziping},
+  title        = {A review of impedance matching techniques in power line communications},
+  year         = {2019},
+  journal      = {Electronics},
+  volume       = {8},
+  number       = {9},
+  pages        = {1022},
+  url          = {https://www.mdpi.com/2079-9292/8/9/1022},
+  note         = {Acesso em: 20 set. 2024.}
+}
+
+@article{pinto_albuquerque,
+  author       = {Pinto, Ernesto Leite and Albuquerque, Claudio Penedo de},
+  title        = {A Técnica de Transmissão OFDM},
+  journal      = {Instituto Militar de Engenharia - IME, Rio de Janeiro - RJ, Centro de Desenvolvimento de Sistemas - CDS, Brasília - DF},
+  year         = {Ano},
+  note         = {Acesso em: 20 set. 2024.}
+}
+
+@online{martins2016,
+  author       = {Martins, Gustavo V. S. and Gimenez, Edson J. C. and Gomes, Evandro L. B.},
+  title        = {Power Line Communication: Arquitetura, Funcionamento e Aplicações},
+  booktitle    = {V SRST – Seminário de Redes e Sistemas de Telecomunicações},
+  year         = {2016},
+  organization = {Instituto Nacional de Telecomunicações - INATEL},
+  address      = {Setembro de 2016},
+  issn         = {2358-1913},
+  note         = {Acesso em: 22 set. 2024.}
+}
+
+@misc{galvao2024,
+  author       = {Galvão, Luis Eduardo Ferreira},
+  title        = {Perfil LinkedIn de Luis Eduardo Ferreira Galvão},
+  howpublished = {\url{https://www.linkedin.com/in/luis-eduardo-ferreira-galv%C3%A3o-526722283/}},
+  note         = {Acadêmico de Engenharia de Computação na Universidade Estadual de Ponta Grossa, Certificado em Tráfego Pago pelo Google e Caboamento Estruturado pela CommScope},
+  year         = {2024},
+  note         = {Acesso em: 22 set. 2024.}
+}
+
+@thesis{lopes2021,
+  author       = {Lopes, Diogo Marcel Silva},
+  title        = {Transmissão de Dados Através da Rede Elétrica},
+  year         = {2021},
+  school       = {Universidade Federal de Campina Grande - UFCG},
+  type         = {Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica)},
+  address      = {Sumé - PB},
+  note         = {Biblioteca Setorial do CDSA. Fevereiro de 2021. Acesso em: 14 set. 2024.}
+}
+
+@online{promader2015,
+  author = {Promader},
+  title = {3 Redes de Computadores – Parte 02: Comutação por Circuitos, FDM e TDM},
+  year = {2015},
+  url = {https://promader.wordpress.com/2015/03/23/3-redes-de-computadores-parte-02-comutacao-por-circuitos-fdm-e-tdm/},
+  note = {Acesso em: 22 set. 2024}
+}
+
